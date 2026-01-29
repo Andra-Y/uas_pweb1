@@ -1,0 +1,38 @@
+
+body {
+    background-color: #f4f4f4; 
+}
+
+.card {
+    transition: all 0.3s ease;
+    border-radius: 10px !important;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.card-header {
+    border-radius: 10px 10px 0 0 !important;
+}
+
+.form-label {
+    font-weight: bold;
+    color: #2c3e50;
+}
+
+
+.btn-success {
+    background-color: #27ae60 !important; 
+    border: none;
+}
+
+.btn-success:hover {
+    background-color: #219150 !important;
+}
+
+
+.navbar-brand, .nav-link {
+    text-decoration: none !important;
+}
+
